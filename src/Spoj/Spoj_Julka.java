@@ -4,6 +4,8 @@ import java.math.BigInteger;
 
 public class Spoj_Julka {
 	
+	
+	
 	// Returns Factorial of N 
     static BigInteger factorial(int N) 
     { 
